@@ -88,7 +88,9 @@ Follow these guidelines to set up models and API routes:
 
 ## Credits
 
-Include credits here.
+UCB Class Material 
+Source Code assistant:  Learning Assistant 
+Stack Overflow 
 
 ## License
 
