@@ -9,8 +9,7 @@ This project, SocialNet API, tackles the challenge of building an API for a soci
 
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Mock-Up](#mock-up)
-- [Getting Started](#getting-started)
+- [Installation](#installation)
   - [Models](#models)
   - [API Routes](#api-routes)
 - [Demo Video](#demo-video)
@@ -28,11 +27,7 @@ As a social media startup, I want an API for my social network that uses a NoSQL
 - POST, PUT, and DELETE routes in Insomnia successfully create, update, and delete users and thoughts.
 - POST and DELETE routes in Insomnia successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list.
 
-## Mock-Up
-
-Please refer to the walkthrough video for demonstrations of the application's API routes being tested in Insomnia.
-
-## Getting Started
+## Installation
 
 Follow these guidelines to set up models and API routes:
 
