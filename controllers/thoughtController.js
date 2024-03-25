@@ -4,7 +4,7 @@ const Thought = require("../models/Thought");
 // Controller methods
 const thoughtController = {
   // GET to get all thoughts
-  getAllThoughts: async (req, res) => {
+  getAllThoughts: async (_req, res) => {
     try {
       const thoughts = await Thought.find();
       res.json(thoughts);
