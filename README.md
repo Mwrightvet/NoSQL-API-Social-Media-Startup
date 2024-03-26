@@ -84,6 +84,7 @@ Follow these guidelines to set up models and API routes:
 ## Demo Video
 
 [![Walkthrough](./assets/new-video-walk-through.gif)](./assets/new-video-walk-through.gif)
+-
 -Video URL: https://www.youtube.com/watch?v=P9guOqcRevU 
 
 ## Credits
